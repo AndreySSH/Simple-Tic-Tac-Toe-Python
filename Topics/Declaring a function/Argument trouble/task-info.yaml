@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Nothing
+- text: "<code>NameError: name 'sum_all' is not defined</code>"
+- text: "<code>TypeError: sum_all() missing 1 required positional argument: 'c'</code>"
+- text: <code>3</code>
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/21643#comment
+status: Solved
+record: -1
+local_check: false

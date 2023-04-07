@@ -1,0 +1,22 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    name = input()
+
+    def normalize(name):
+
+        # put your code here
+
+        return new_name
+
+    print(normalize(name))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13808#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 04 Apr 2023 23:31:48 UTC"
+record: -1
+submission_language: python3

@@ -1,0 +1,33 @@
+content:
+- Overview of the basic program
+- Multi-line programs
+- Comments
+- Basic data types
+- Taking input
+- Indexes
+- Slicing
+- Invoking a function
+- Naming variables
+- Integer arithmetic
+- Program with numbers
+- Comparisons
+- If statement
+- Else statement
+- Load module
+- Packages
+- For loop
+- Elif statement
+- List comprehension
+- Nested lists
+- Declaring a function
+- Scopes
+- While loop
+- Quotes and multi-line strings
+- Basic string methods
+- Type casting
+- Escape sequences
+- Split and join
+- Exceptions
+- Built-in exceptions
+- Loop control statements
+- Any and all

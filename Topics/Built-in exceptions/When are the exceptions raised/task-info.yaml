@@ -1,0 +1,12 @@
+type: unsupported
+custom_name: When are the exceptions raised?
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  This is a matching task. You can use this editor as a playground
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11683#comment
+status: Solved
+record: -1
